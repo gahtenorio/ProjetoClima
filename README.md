@@ -6,6 +6,7 @@ Caso tenha somente as dependências instaladas, instale o CLI (Command Line Inte
 Abra seu terminal e execute o seguinte comando: npm install -g react-native-cli
 
 Se tudo ocorreu bem, você conseguirá executar o seguinte comando: react-native -h
+
 Esse comando deve exibir uma lista de comandos possíveis para serem executados com o React Native CLI.
 
 Caso não tenha as dependências instaladas use este tutorial para instalar as dependências e o React-Native: 
